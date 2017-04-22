@@ -1,0 +1,7 @@
+﻿Bob 2332
+Mos 5000
+Panda 15500
+Hanne 20540
+Jens 4310
+Anton 3950
+Viktor 3680
